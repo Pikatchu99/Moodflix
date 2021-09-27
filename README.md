@@ -21,5 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
-##I want to realize a plateforme who look like netflix
+# I want to realize a plateforme who look like netflix
